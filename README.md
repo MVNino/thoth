@@ -1,10 +1,10 @@
 ## Thoth-Pen
 
+A Node.js & React.js Blog and Note-taking (todo) web application. Users can manage and publish their blog posts, as well as take notes.
+
 Thoth was revered as the inventor of writing and the patron deity of scribes. 
 He was believed to have given the gift of hieroglyphs to humanity, enabling communication, record-keeping, and the preservation of knowledge.
 
-This is a Node.js & React.js Blog and Note-taking (todo) web application. Users can manage and publish their blog posts, as well as take notes.
- 
 ## Installation
 
 Before proceeding with the installation, make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download and install Node.js from [official Node.js website](https://nodejs.org/).
