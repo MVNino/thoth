@@ -1,4 +1,4 @@
-## Thoth-Pen
+## Thoth-pen
 
 A Node.js & React.js Blog and Note-taking (todo) web application. Users can manage and publish their blog posts, as well as take notes.
 
